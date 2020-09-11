@@ -26,17 +26,17 @@ export class App {
 
   initSounds() {
     this.launchSound = new Howl({
-      src: ['../assets/sounds/firework_launch_start.mp3'],
+      src: ['./assets/sounds/firework_launch_start.mp3'],
       volume: 0.15,
     });
 
     this.popSound = new Howl({
-      src: ['../assets/sounds/firework_pop.mp3'],
+      src: ['./assets/sounds/firework_pop.mp3'],
       volume: 0.3,
     });
 
     this.wizzSound = new Howl({
-      src: ['../assets/sounds/firework_pop_wizz.mp3'],
+      src: ['./assets/sounds/firework_pop_wizz.mp3'],
       volume: 0.3,
     });
   }
