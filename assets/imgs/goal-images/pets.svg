@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+    <defs>
+        <circle id="a" cx="45" cy="45" r="45"/>
+        <filter id="c" width="128.4%" height="132.7%" x="-13.9%" y="-16.1%" filterUnits="objectBoundingBox">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <path id="d" d="M4.244 25.641c.962-5.523 2.607-9.876 4.933-13.06-2.046-1.034-3.429-3.007-3.429-5.27 0-.977.257-1.9.714-2.715C5.188 1.939 4.787.434 5.257.08c.445-.334 1.67.363 3.675 2.09 1.023-.57 2.23-.9 3.522-.9a7.22 7.22 0 0 1 3.63.96C18.13.461 19.377-.257 19.827.081c.48.36.051 1.923-1.289 4.688a5.52 5.52 0 0 1 .621 2.541c0 2.17-1.27 4.072-3.178 5.137.02.029.038.058.057.088 3.613 5.557 5.434 11.138 5.464 16.745H3.727c.058-.517.121-1.026.19-1.525-5.78-1.609-3.84-6.48-2.451-8.458.953-1.36 1.27-3.565.947-6.615 1.255 1.86 1.255 4.438 0 7.734-1.064 2.792-.454 4.534 1.83 5.225z"/>
+        <path id="f" d="M35.57 44.525c5.16-1.418 7.828-4.055 8.006-7.912.268-5.785 3.081.889 1.02 4.92-2.06 4.03-5.578 6.779-16.008 6.779H7.417c1.634-3.618 3.631-5.506 5.991-5.665 1.654-.112-6.338-2.768-3.327-15.626 1.113-4.755 1.312-8.84.595-12.255-2.821.547-5.646-.051-8.475-1.795-4.243-2.616-2.431-8.447 6.13-8.312.244.004.58-.004 1.008-.023C11.417.348 15.018-.966 20.141.696c7.685 2.492 6.035 18.759.772 16.718-5.263-2.04-6.505-7.465-6.466-8.652.038-1.188-2.397 5.967 6.122 9.621.365.157.708.316 1.03.476 5.095 6.636 2.858 3.112 9.623 9.873 4.712 4.709 6.161 9.973 4.347 15.793z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#9DDAFF" fill-rule="nonzero" xlink:href="#a"/>
+        <path fill="#232045" fill-rule="nonzero" d="M60.186 26.323L97.5 63.637l-39.153 39.154-39.67-39.67 5.194 1.436h5.065l2.026-9.242 7.874-8.237 4.31-4.362 3.82-10.075 8.943-4.454z" mask="url(#b)" opacity=".191"/>
+        <g filter="url(#c)" transform="matrix(-1 0 0 1 72.632 18.947)">
+            <g transform="translate(0 19.07)">
+                <mask id="e" fill="#fff">
+                    <use xlink:href="#d"/>
+                </mask>
+                <use fill="#FFF" fill-rule="nonzero" xlink:href="#d"/>
+                <path fill="#FFA9EA" fill-rule="nonzero" d="M12.656 7.772a.05.05 0 0 1 .003 0c.203.001.392.029.841.457.488.464.788.39.693.836-.093.431-.958.249-1.561.24-.604.009-1.47.191-1.562-.24-.095-.446.205-.372.693-.836.45-.428.638-.456.84-.457a.05.05 0 0 1 .004 0h.05z" mask="url(#e)" transform="matrix(1 0 0 -1 0 17.122)"/>
+                <path fill="#EA4DC3" fill-rule="nonzero" d="M7.025 12.714h10.219v1.907H7.025z" mask="url(#e)"/>
+            </g>
+            <g transform="translate(11.496)">
+                <mask id="g" fill="#fff">
+                    <use xlink:href="#f"/>
+                </mask>
+                <use fill="#3C342A" fill-rule="nonzero" xlink:href="#f"/>
+                <path fill="#16E1D0" fill-rule="nonzero" d="M10.219 19.07H24.27v1.907H10.219z" mask="url(#g)"/>
+            </g>
+        </g>
+        <ellipse cx="62.368" cy="43.816" fill="#3C342A" fill-rule="nonzero" rx="1.579" ry="1"/>
+        <ellipse cx="57.632" cy="43.816" fill="#3C342A" fill-rule="nonzero" rx="1.579" ry="1"/>
+    </g>
+</svg>

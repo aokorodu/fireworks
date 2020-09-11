@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="71px" viewBox="0 0 128 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Ribbon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="36.2569037%" id="linearGradient-1">
+            <stop stop-color="#C3B400" offset="0%"></stop>
+            <stop stop-color="#FAF700" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Child/My-Goals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Child-/-Budget-/-Savings-goals-/-goal-complete" transform="translate(-219.000000, -258.000000)">
+            <g id="Ribbon" transform="translate(219.000000, 258.000000)">
+                <path stroke="black" stroke-width="1" d="M128,37.7908048 C126.790421,17.5291143 69.0786585,18.9083486 65.1417489,19.0249976 C15.9716906,19.6784455 12,6 9,-7.10542736e-15 C9,-7.10542736e-15 6,13 11.3026046,27.8385366 C11.3026046,27.8385366 1.77635684e-13,31 1.77635684e-13,31 C13,55 61.9234668,52.2381967 65.8585167,52.1215478 C114.601384,51.4731715 125.311457,65.5284413 127.629395,71 L119.708553,44.3194115 L128,37.7908048 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <text id="Goal-reached" font-family="Chalkboard, Marker felt, sans-serif" font-size="14" font-weight="normal" letter-spacing="-0.4375" fill="#1F2CFF">
+                    <tspan x="22.0039062" y="40">Goal reached</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

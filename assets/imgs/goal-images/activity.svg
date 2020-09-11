@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+    <defs>
+        <circle id="b" cx="45" cy="45" r="45"/>
+        <filter id="d" width="135.3%" height="125%" x="-15.7%" y="-12.5%" filterUnits="objectBoundingBox">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <circle id="a" cx="25.263" cy="37.895" r="22.895"/>
+        <mask id="e" width="45.789" height="45.789" x="0" y="0" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="c" fill="#fff">
+                <use xlink:href="#b"/>
+            </mask>
+            <use fill="#232045" fill-rule="nonzero" xlink:href="#b"/>
+            <path fill="#232045" fill-rule="nonzero" d="M68.111 16.68l35.601 35.66-36.77 51.85L25.1 62.348l-2.64-13.402 6.318-21.486 26.354-3.642 2.066-4.824-2.597-3.227 3.036-4.486z" mask="url(#c)" opacity=".191"/>
+        </g>
+        <g filter="url(#d)" transform="rotate(30 20.526 76.605)">
+            <circle cx="25.263" cy="37.895" r="25.263" fill="#A7C7C6" fill-rule="nonzero"/>
+            <use fill="#495F6F" fill-rule="nonzero" stroke="#F2CE6D" stroke-dasharray="10,10" stroke-width="8" mask="url(#e)" transform="rotate(-2 25.263 37.895)" xlink:href="#a"/>
+            <circle cx="25.263" cy="37.895" r="19.737" fill="#FFF" fill-rule="nonzero"/>
+            <path fill="#495F6F" fill-rule="nonzero" d="M27.632 37.895l-2.369 11.052-2.368-11.052 2.368-11.053 2.369 11.053z"/>
+            <path fill="#495F6F" fill-rule="nonzero" d="M25.263 40.263l-11.052-2.368 11.052-2.369 11.053 2.369-11.053 2.368z"/>
+            <path fill="#495F6F" fill-rule="nonzero" d="M34.496 33.293l-3.35 5.583-2.232-2.233 5.582-3.35zm-9.203 9.203l3.35-5.582 2.233 2.233-5.583 3.35z"/>
+            <path fill="#495F6F" fill-rule="nonzero" d="M34.496 42.496l-5.582-3.35 2.233-2.232 3.35 5.582zm-9.203-9.203l5.583 3.35-2.233 2.233-3.35-5.583z"/>
+            <circle cx="29.684" cy="37.895" r="2.368" fill="#F2CE6D" fill-rule="nonzero"/>
+            <path fill="#A7C7C6" fill-rule="nonzero" d="M22.895 9.474h6.316V15h-6.316zM21.316 2.763a.395.395 0 0 0-.395.395v3.158c0 .218.177.395.395.395h9.473a.395.395 0 0 0 .395-.395V3.158a.395.395 0 0 0-.395-.395h-9.473zm0-2.368h9.473a2.763 2.763 0 0 1 2.764 2.763v3.158a2.763 2.763 0 0 1-2.764 2.763h-9.473a2.763 2.763 0 0 1-2.763-2.763V3.158A2.763 2.763 0 0 1 21.316.395z"/>
+            <rect width="9.474" height="6.316" x="21.316" y="4.737" fill="#E26C62" fill-rule="nonzero" rx="2"/>
+            <path fill="#E26C62" fill-rule="nonzero" d="M33.931 30.5L19.716 44.717l.754 2.596-4.355 5.47-1.65-3.931-3.932-1.65 5.47-4.355 2.597.753 14.215-14.215-2.744-1.722 7.258-1.675-1.675 7.257-1.723-2.743z"/>
+            <text fill="#495F6F" font-family="Muli-Black, Muli" font-size="9" font-weight="700" letter-spacing="-.281">
+                <tspan x="22.105" y="26">N</tspan>
+            </text>
+            <text fill="#495F6F" font-family="Muli-Black, Muli" font-size="9" font-weight="700" letter-spacing="-.281">
+                <tspan x="22.895" y="56.789">S</tspan>
+            </text>
+            <text fill="#495F6F" font-family="Muli-Black, Muli" font-size="9" font-weight="700" letter-spacing="-.281">
+                <tspan x="46.316" y="41">E</tspan>
+            </text>
+            <text fill="#495F6F" font-family="Muli-Black, Muli" font-size="9" font-weight="700" letter-spacing="-.281">
+                <tspan x="6.316" y="41">W</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

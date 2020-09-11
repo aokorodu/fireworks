@@ -1,0 +1,29 @@
+<svg width="273" height="281" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="-2.7%" y="-2.7%" width="105.5%" height="105.4%" filterUnits="objectBoundingBox" id="a">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1" result="shadowMatrixOuter1"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#a)" transform="translate(-96 -46)" fill="none" fill-rule="evenodd">
+    <path d="M325.514 214.392a115.15 115.15 0 0 1-16.043 24.662l51.144-2.68 3.716 70.903-260.643 13.66-3.715-70.903 40.898-2.143a117.12 117.12 0 0 1-8.732-9.327c-41.18-49.077-34.779-122.245 14.298-163.425 46.083-38.669 113.409-35.383 155.546 5.796l23.531 133.457z" fill="#000"/>
+    <path d="M325.514 214.392a115.15 115.15 0 0 1-16.043 24.662l51.144-2.68 3.716 70.903-260.643 13.66-3.715-70.903 40.898-2.143a117.12 117.12 0 0 1-8.732-9.327c-41.18-49.077-34.779-122.245 14.298-163.425 46.083-38.669 113.409-35.383 155.546 5.796l23.531 133.457z" fill="#FFF"/>
+    <path d="M324.797 216.664a117.29 117.29 0 0 1-10.206-10.715c-30.99-36.932-35.033-87.506-14.222-127.825l24.428 138.54z" fill="#E1E1E1"/>
+    <g fill="#232045" font-family="Chalkboard SE, Comic Sans MS, sans-serif" font-size="32">
+      <text transform="rotate(-4 3813.583 -2710.891)">
+        <tspan x="0" y="31.734">Lost.</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M215 101c-73.274 0-75 81.603-75 97.746C140 214.913 173.567 228 215 228c41.421 0 75-13.087 75-29.254 0-16.143-1.738-97.746-75-97.746z" fill="#FCC21B"/>
+      <g fill="#2F2F2F">
+        <path d="M189.844 165.2c-5.287.046-9.62-4.88-9.678-10.994-.06-6.137 4.18-11.143 9.466-11.189 5.275-.046 9.62 4.88 9.678 11.017.06 6.115-4.18 11.109-9.466 11.166zM241.78 165.2c5.275-.011 9.549-4.983 9.537-11.097-.012-6.137-4.31-11.086-9.584-11.074-5.287.011-9.573 4.982-9.56 11.12.023 6.114 4.32 11.062 9.607 11.051z"/>
+      </g>
+    </g>
+  </g>
+</svg>

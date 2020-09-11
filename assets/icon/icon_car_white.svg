@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="31px" viewBox="0 0 70 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Car Icon - white@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="PBL-—-Lesson-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Child/Onboarding-1-Copy-9" transform="translate(-79.000000, -494.000000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="Car-Icon---white" style="mix-blend-mode: lighten;" transform="translate(79.000000, 494.000000)">
+                <path d="M64.2892842,13.169945 L46.3591847,12.0135131 L41.5039968,4.7406063 C39.6563024,1.97282285 36.495046,0.373650745 33.1706393,0.525044238 L11.1465108,1.52802314 C8.24929361,1.65996243 5.68781266,3.45047369 4.56863451,6.12605131 L3.27599065,9.21632695 L2.95019585,9.22266848 C1.59069513,9.2491309 0.5,10.3599921 0.5,11.7221842 L0.5,21.6623511 C0.5,22.4907782 1.17157288,23.1623511 2,23.1623511 L66.6347656,23.1623511 C68.0154775,23.1623511 69.1347656,22.043063 69.1347656,20.6623511 L69.1347656,18.3380115 C69.1347656,15.6072456 67.014388,13.3457051 64.2892842,13.169945 Z" id="Combined-Shape" fill="none"></path>
+                <path d="M11.0915262,3.46704555 C9.45934921,3.5413749 7.99569412,4.49454908 7.26766632,5.95725283 L6.75275181,6.99178393 C6.66215716,7.17380051 6.60951115,7.37233464 6.59801206,7.57532528 C6.55115813,8.40242636 7.18367342,9.11090689 8.01077451,9.15776083 L40.4125868,10.9932709 C40.7390197,11.0117628 41.0625555,10.9230913 41.333947,10.7407535 C42.0215866,10.2787542 42.2045042,9.3467878 41.7425049,8.65914823 L40.4276036,6.70204952 C38.5773099,3.94807304 35.4242963,2.3589311 32.1099048,2.5098685 L11.0915262,3.46704555 Z" id="Rectangle-23" fill="none"></path>
+                <path d="M19.5,3.5 L17.5,9.5" id="Line-2" stroke-linecap="square"></path>
+                <circle id="Oval-15" cx="12" cy="24" r="6"></circle>
+                <circle id="Oval-15" fill="none" cx="12" cy="24" r="4"></circle>
+                <circle id="Oval-15-Copy" fill="none" cx="55" cy="24" r="6"></circle>
+                <circle id="Oval-15" fill="none" cx="55" cy="24" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

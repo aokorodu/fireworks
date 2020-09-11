@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Budget_Icon</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation/Child/Account" transform="translate(-102.000000, -16.000000)">
+            <g id="Navigation">
+                <g id="Budget" transform="translate(102.000000, 16.000000)">
+                    <path d="M25.2568359,50 C37.849422,50 50.5136719,40.0977703 50.5136719,27.5051843 C50.5136719,14.9125982 41.4500079,0.8671875 28.8574219,0.8671875 C16.2648358,0.8671875 0,14.1967093 0,26.7892953 C0,39.3818814 12.6642499,50 25.2568359,50 Z" id="Oval-2-Copy-7" fill="#16E1D0"></path>
+                    <g id="Budget-Icon">
+                        <path d="M25.4129016,11.0053184 L25.4129016,27.9230769 L41,27.9230769 C40.7823354,36.8402517 33.7033752,44 25.002579,44 C16.1645987,44 9,36.6126984 9,27.5 C9,18.3873016 16.1645987,11 25.002579,11 C25.1397633,11 25.2765443,11.0017799 25.4129016,11.0053184 Z" id="Combined-Shape" stroke="#000000"></path>
+                        <path d="M28,8 C36.8745089,8.22552148 44,15.5600049 44,24.5748664 C44,24.7170024 43.9982286,24.8587207 43.994707,25 L28,25 L28,8 Z" id="Combined-Shape" stroke="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

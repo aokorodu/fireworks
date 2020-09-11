@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="527px" viewBox="0 0 328 527" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-3" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-5" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-7" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-9" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-11" points="-4.54747351e-13 20.7883212 40 0.788321168 60 10.5255474 20 31.7883212"></polygon>
+        <polygon id="path-13" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-15" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-17" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-19" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-21" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+        <polygon id="path-23" points="0 21.0510949 39.75 4.54747351e-13 60 10.5255474 20.25 31.5766423"></polygon>
+    </defs>
+    <g id="Child-Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Child/Onboarding-08c" transform="translate(-33.000000, -17.000000)">
+            <g id="Group">
+                <g id="Money-stack" transform="translate(116.000000, 275.000000)">
+                    <g id="Dollar-Bill" transform="translate(0.000000, 0.211679)">
+                        <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-2)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-2)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-2)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-2)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-2)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                    </g>
+                    <polygon id="Rectangle-10" fill="#14B4A7" points="-9.09494702e-13 21.2627737 20.25 31.7883212 20.25 151.793457 -9.09494702e-13 141.185403"></polygon>
+                    <polygon id="Rectangle-10-Copy" fill="#16E1D0" transform="translate(40.125000, 81.260642) scale(-1, 1) translate(-40.125000, -81.260642) " points="20.25 10.7372263 60 31.7883212 60 151.784058 20.25 130.732963"></polygon>
+                </g>
+                <g id="Dollar-Bill" transform="translate(140.000000, 268.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-4)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-4)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-4)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-4)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-4)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+                <g id="Dollar-Bill" transform="translate(176.000000, 260.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-6)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-6)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-6)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-6)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-6)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+                <g id="Money-stack" transform="translate(200.000000, 369.000000)">
+                    <g id="Dollar-Bill" transform="translate(0.000000, 0.211679)">
+                        <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-8)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-8)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-8)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-8)" cx="58.125" cy="10.9014599" rx="7.625" ry="4.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-8)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                    </g>
+                    <polygon id="Rectangle-10" fill="#14B4A7" points="-9.09494702e-13 21.2627737 20.25 31.7883212 20.25 57.793457 -9.09494702e-13 47.1854035"></polygon>
+                    <polygon id="Rectangle-10-Copy" fill="#16E1D0" transform="translate(40.125000, 34.260642) scale(-1, 1) translate(-40.125000, -34.260642) " points="20.25 10.7372263 60 31.7883212 60 57.7840576 20.25 36.7329627"></polygon>
+                </g>
+                <g id="Money-stack" transform="translate(282.000000, 349.000000)">
+                    <g id="Dollar-Bill" transform="translate(0.000000, 0.211679)">
+                        <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-10)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-10)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-10)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-10)" cx="58.125" cy="10.9014599" rx="7.625" ry="4.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-10)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                    </g>
+                    <polygon id="Rectangle-10" fill="#14B4A7" points="-9.09494702e-13 21.2627737 20.25 31.7883212 20.25 77.793457 -9.09494702e-13 67.1854035"></polygon>
+                    <polygon id="Rectangle-10-Copy" fill="#16E1D0" transform="translate(40.125000, 44.260642) scale(-1, 1) translate(-40.125000, -44.260642) " points="20.25 10.7372263 60 31.7883212 60 77.7840576 20.25 56.7329627"></polygon>
+                </g>
+                <g id="Money-stack" transform="translate(33.000000, 378.000000)">
+                    <polygon id="Rectangle-10" fill="#14B4A7" points="0 21 20 32 20 49 0 38"></polygon>
+                    <polygon id="Rectangle-10-Copy" fill="#16E1D0" transform="translate(40.000000, 29.868613) scale(-1, 1) translate(-40.000000, -29.868613) " points="20 10.7372263 60 32 60 49 20 28"></polygon>
+                    <g id="Dollar-Bill" transform="translate(0.000000, 0.211679)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <path stroke="#15A08F" stroke-width="2.25" d="M2.42068415,20.8357673 L20.009119,30.5094065 L57.5203858,10.569567 L40.0066275,2.04279565 L2.42068415,20.8357673 Z"></path>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-12)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-12)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-12)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-12)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                        <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-12)" cx="40.125" cy="1.12773723" rx="8.625" ry="4.1350365"></ellipse>
+                    </g>
+                </g>
+                <text id="Spend" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal" line-spacing="27" letter-spacing="0.600000024" fill="#FFFFFF">
+                    <tspan x="40.7666015" y="337">Spend</tspan>
+                </text>
+                <text id="10%" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" line-spacing="27" letter-spacing="0.9857146" fill="#FFFFFF">
+                    <tspan x="39.717473" y="368">10%</tspan>
+                </text>
+                <g id="iPhone-X/Status-Bars/Status-Bar-(White)">
+                    <g id="iPhone-X/Status-Bars/Status-Bar-(Black)">
+                        <rect id="Rectangle" x="0" y="0" width="375" height="44"></rect>
+                        <g id="Battery" transform="translate(336.000000, 17.000000)">
+                            <rect id="Border" stroke="#FFFFFF" opacity="0.35" x="0.5" y="0.833333333" width="21" height="10.3333333" rx="2.66666675"></rect>
+                            <path d="M23,4 L23,8 C23.8047311,7.66122348 24.328038,6.87313328 24.328038,6 C24.328038,5.12686672 23.8047311,4.33877652 23,4" id="Cap" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4"></path>
+                            <rect id="Capacity" fill="#FFFFFF" fill-rule="nonzero" x="2" y="2.33333333" width="18" height="7.33333333" rx="1.33333337"></rect>
+                        </g>
+                        <path d="M323.330333,19.608 C325.546226,19.6080971 327.677386,20.4595347 329.283333,21.9863333 C329.404265,22.1042079 329.597562,22.102721 329.716667,21.983 L330.872667,20.8163333 C330.932975,20.7556112 330.966599,20.6733595 330.966098,20.5877792 C330.965598,20.5021988 330.931014,20.420346 330.87,20.3603333 C326.654902,16.3207858 320.005098,16.3207858 315.79,20.3603333 C315.728941,20.4203015 315.694297,20.5021294 315.693734,20.5877099 C315.693171,20.6732903 315.726736,20.755567 315.787,20.8163333 L316.943333,21.983 C317.062362,22.1029017 317.255808,22.1043897 317.376667,21.9863333 C318.982819,20.4594344 321.114223,19.6079944 323.330333,19.608 Z M323.330333,23.4036667 C324.547823,23.4035921 325.721865,23.8561245 326.624333,24.6733333 C326.746397,24.7893139 326.938678,24.7867994 327.057667,24.6676667 L328.212333,23.501 C328.273141,23.439805 328.30688,23.3567887 328.306003,23.2705239 C328.305126,23.1842592 328.269706,23.101946 328.207667,23.042 C325.459468,20.4856177 321.203532,20.4856177 318.455333,23.042 C318.393256,23.1019453 318.357837,23.1842997 318.357023,23.2705923 C318.356208,23.356885 318.390065,23.4398934 318.451,23.501 L319.605333,24.6676667 C319.724322,24.7867994 319.916603,24.7893139 320.038667,24.6733333 C320.940539,23.8566645 322.113649,23.4041708 323.330333,23.4036667 Z M325.549333,26.188 C325.611087,26.127394 325.645095,26.0439919 325.643328,25.957485 C325.641561,25.8709782 325.604176,25.7890342 325.54,25.731 C324.264428,24.6521162 322.396238,24.6521162 321.120667,25.731 C321.056446,25.7889875 321.019,25.8709057 321.01717,25.957413 C321.01534,26.0439203 321.049289,26.1273487 321.111,26.188 L323.108667,28.2036667 C323.167217,28.2629057 323.247042,28.2962443 323.330333,28.2962443 C323.413624,28.2962443 323.49345,28.2629057 323.552,28.2036667 L325.549333,26.188 Z" id="Wifi" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M294.666667,24.3333333 L295.666667,24.3333333 C296.218951,24.3333333 296.666667,24.7810486 296.666667,25.3333333 L296.666667,27.3333333 C296.666667,27.8856181 296.218951,28.3333333 295.666667,28.3333333 L294.666667,28.3333333 C294.114382,28.3333333 293.666667,27.8856181 293.666667,27.3333333 L293.666667,25.3333333 C293.666667,24.7810486 294.114382,24.3333333 294.666667,24.3333333 Z M299.333333,22.3333333 L300.333333,22.3333333 C300.885618,22.3333333 301.333333,22.7810486 301.333333,23.3333333 L301.333333,27.3333333 C301.333333,27.8856181 300.885618,28.3333333 300.333333,28.3333333 L299.333333,28.3333333 C298.781049,28.3333333 298.333333,27.8856181 298.333333,27.3333333 L298.333333,23.3333333 C298.333333,22.7810486 298.781049,22.3333333 299.333333,22.3333333 Z M304,20 L305,20 C305.552285,20 306,20.4477153 306,21 L306,27.3333333 C306,27.8856181 305.552285,28.3333333 305,28.3333333 L304,28.3333333 C303.447715,28.3333333 303,27.8856181 303,27.3333333 L303,21 C303,20.4477153 303.447715,20 304,20 Z M308.666667,17.6666667 L309.666667,17.6666667 C310.218951,17.6666667 310.666667,18.1143819 310.666667,18.6666667 L310.666667,27.3333333 C310.666667,27.8856181 310.218951,28.3333333 309.666667,28.3333333 L308.666667,28.3333333 C308.114382,28.3333333 307.666667,27.8856181 307.666667,27.3333333 L307.666667,18.6666667 C307.666667,18.1143819 308.114382,17.6666667 308.666667,17.6666667 Z" id="Cellular-Connection" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <g id="iPhone-X/Overrides/Time-White" transform="translate(21.000000, 13.000000)" fill="#FFFFFF" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal" letter-spacing="-0.280000001">
+                            <text id="↳-Time">
+                                <tspan x="13.4131641" y="16.5">9:4</tspan>
+                                <tspan x="34.2089062" y="16.5">1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <text id="We’ll-start-by-divid" font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="79.6855469" y="473">We’ll start by dividing your </tspan>
+                    <tspan x="115.59375" y="496">money up equally.</tspan>
+                </text>
+                <text id="(You-can-change-this" font-family=".AppleSystemUIFont" font-size="18" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="59.2011719" y="540">(You can change this at any time)</tspan>
+                </text>
+                <g id="Dollar-Bill" transform="translate(200.000000, 353.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-14)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-14)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-14)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-14)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-14)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+                <g id="Dollar-Bill" transform="translate(200.000000, 322.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-16)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-16)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-16)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-16)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-16)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+                <g id="Dollar-Bill" transform="translate(200.000000, 284.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-18)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-18)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-18)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-18)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-18)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+                <g id="Dollar-Bill" transform="translate(282.000000, 339.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-20" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-20)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-20)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-20)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-20)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-20)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+                <g id="Dollar-Bill" transform="translate(282.000000, 326.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-22" fill="white">
+                        <use xlink:href="#path-21"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-22)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-22)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-22)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-22)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-22)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+                <g id="Dollar-Bill" transform="translate(272.000000, 306.000000)">
+                    <path d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z" id="Combined-Shape" stroke="#15A08F" stroke-width="2.25" fill="#16E1D0" fill-rule="nonzero" opacity="0.835077195"></path>
+                    <mask id="mask-24" fill="white">
+                        <use xlink:href="#path-23"></use>
+                    </mask>
+                    <path stroke="#15A08F" stroke-width="2.25" d="M2.42138106,21.0417845 L20.2451151,30.3062071 L57.5786189,10.5348579 L39.7548849,1.27043524 L2.42138106,21.0417845 Z"></path>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-24)" cx="30.375" cy="15.4124088" rx="8.625" ry="4.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-24)" cx="1.875" cy="21.4270073" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-24)" cx="20.625" cy="29.6970803" rx="6.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-24)" cx="58.125" cy="10.9014599" rx="7.625" ry="3.1350365"></ellipse>
+                    <ellipse id="Oval" fill="#12A08F" fill-rule="nonzero" mask="url(#mask-24)" cx="40.125" cy="1.12773723" rx="6.625" ry="3.1350365"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,134 @@
+<svg width="329" height="431" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient x1="0%" y1="50%" y2="50%" id="a">
+      <stop stop-color="#FFF" stop-opacity="0" offset="0%"/>
+      <stop stop-color="#353535" stop-opacity=".2" offset="100%"/>
+    </linearGradient>
+    <path id="b" d="M0 0h113.8v163H0z"/>
+    <path id="d" d="M0 0h115.8v165H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 10)">
+      <ellipse fill="#2EFAE9" fill-rule="nonzero" cx="76.5" cy="95" rx="76.5" ry="36"/>
+      <path fill="url(#a)" transform="rotate(-32 34.6 59)" d="M4 101.2h31.3v20.4H4z"/>
+      <path fill="#14B4A7" d="M46.4 21.4l21 10.3V112l-21-10.7z"/>
+      <path fill="#16E1D0" d="M110 10.7L67.5 31.5V112L110 90.3z"/>
+      <g transform="translate(46.7 .1)">
+        <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+        <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+        <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+        <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+        <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+        <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+      </g>
+      <text font-family="Helvetica" font-size="16" letter-spacing="-.5" fill="#FFF">
+        <tspan x="46" y="155">To Spend</tspan> <tspan x="47.4" y="174" font-size="20">$45.82</tspan>
+      </text>
+    </g>
+    <g transform="translate(0 220)">
+      <ellipse fill="#009EFF" fill-rule="nonzero" cx="76.5" cy="125" rx="76.5" ry="36"/>
+      <path fill="url(#a)" transform="rotate(-32 34 89.3)" d="M3.5 131.4h31.3v20.4H3.5z"/>
+      <path fill="#14B4A7" d="M46.4 21.4l21 10.3V142l-21-10.7z"/>
+      <path fill="#16E1D0" d="M110 10.7L67.5 31.5V142l42.5-21.7z"/>
+      <g transform="translate(47.2)">
+        <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+        <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+        <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+        <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+        <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+        <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+      </g>
+      <text font-family="Helvetica" font-size="16" letter-spacing="-.5" fill="#FFF">
+        <tspan x="47.8" y="185">To Share</tspan> <tspan x="47.4" y="204" font-size="20">$45.82</tspan>
+      </text>
+    </g>
+    <g transform="translate(176)">
+      <ellipse fill="#FFA9EA" fill-rule="nonzero" cx="76.5" cy="105" rx="76.5" ry="36"/>
+      <path fill="url(#a)" transform="rotate(-32 34.4 70)" d="M3.8 112.2h31.3v20.4H3.8z"/>
+      <path fill="#14B4A7" d="M46.4 21.4l21 10.3V122l-21-10.7z"/>
+      <path fill="#16E1D0" d="M110 10.7L67.5 31.5V122l42.5-21.7z"/>
+      <g transform="translate(46.8 .2)">
+        <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+        <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+        <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+        <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+        <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+        <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+      </g>
+      <text font-family="Helvetica" font-size="16" letter-spacing="-.5" fill="#FFF">
+        <tspan x="45.4" y="165">To Save</tspan> <tspan x="47.4" y="184" font-size="20">$45.82</tspan>
+      </text>
+    </g>
+    <g transform="translate(176 269)">
+      <ellipse fill="#EA4DC3" fill-rule="nonzero" cx="76.5" cy="76" rx="76.5" ry="36"/>
+      <path fill="url(#a)" transform="rotate(-32 34 41)" d="M3.5 83.1h31.3v20.4H3.5z"/>
+      <path fill="#14B4A7" d="M46.4 22.4l21 10.3V93l-21-10.7z"/>
+      <path fill="#16E1D0" d="M110 11.7L67.5 32.5V93L110 71.3z"/>
+      <g transform="translate(46.7 .9)">
+        <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+        <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+        <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+        <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+        <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+        <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+      </g>
+      <text font-family="Helvetica" font-size="16" letter-spacing="-.5" fill="#FFF">
+        <tspan x="46.7" y="136">To Invest</tspan> <tspan x="47.4" y="155" font-size="20">$45.82</tspan>
+      </text>
+    </g>
+    <g transform="translate(74 213.4)">
+      <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+      <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+      <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+      <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+      <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+      <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+    </g>
+    <g transform="translate(189.4 238)">
+      <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+      <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+      <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+      <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+      <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+      <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+    </g>
+    <g transform="translate(212.3 253.7)">
+      <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+      <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+      <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+      <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+      <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+      <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+    </g>
+    <g transform="translate(154 219.8)">
+      <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+      <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+      <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+      <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+      <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+      <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+    </g>
+    <g transform="translate(106.9 212.8)">
+      <path stroke="#15A08F" stroke-width="1.5" fill="#15E0D0" d="M20.6 31l41-20.4L41.2.8.4 21z"/>
+      <ellipse fill="#15A08F" cx="30.3" cy="16.5" rx="9.1" ry="4.9"/>
+      <ellipse fill="#15A08F" cx="41.4" cy="3.1" rx="3.9" ry="1.7"/>
+      <ellipse fill="#15A08F" cx="4.2" cy="20.8" rx="3.3" ry="1.8"/>
+      <ellipse fill="#15A08F" cx="20.8" cy="29.2" rx="3.6" ry="2.1"/>
+      <ellipse fill="#15A08F" cx="57" cy="10.3" rx="3.1" ry="1.8"/>
+    </g>
+    <g>
+      <g transform="rotate(-11 1451.4 -551.6)">
+        <mask id="c" fill="#fff">
+          <use xlink:href="#b"/>
+        </mask>
+        <path d="M103.2 72.4h-.7c-3.3 0-6.2 1.5-8.2 3.9-.6-5.3-5.1-9.4-10.5-9.4H83c-3.3 0-6.3 1.5-8.3 3.9A11.8 11.8 0 1 0 53 66.3V9.7C53 4.4 48.6 0 43.3 0h-2.5A9.8 9.8 0 0 0 31 9.7v86l-1.6-3c-.3-.5-16.5-19.5-23.2-16.2l-1.7 1a9 9 0 0 0-3.3 12.3l31.5 54.6A28 28 0 0 0 58.9 163h27a28 28 0 0 0 27.9-28V83c0-5.8-4.8-10.6-10.6-10.6" fill="#FFA9EA" mask="url(#c)"/>
+      </g>
+      <g transform="rotate(-11 1429.2 -565.2)">
+        <mask id="e" fill="#fff">
+          <use xlink:href="#d"/>
+        </mask>
+        <path d="M113.7 121.8V136c0 14.8-12 26.9-26.8 26.9H60A26.9 26.9 0 0 1 34.7 145L3.2 90.1A7.9 7.9 0 0 1 6 79.4l1.7-1c2.2-1 6.7 1.2 12.5 6.4 4.8 4.3 8.8 9 9.2 9.5l3.6 6.6V10.8c0-4.8 4-8.7 8.7-8.7h2.5c4.8 0 8.7 4 8.7 8.7V71l2-3.2c1.9-3.3 5.4-5.3 9.1-5.3 5.4 0 10 4 10.7 9.3l.3 2.4 1.5-1.8A9.5 9.5 0 0 1 84 69h.7c4.9 0 9 3.6 9.5 8.4l.3 2.4 1.6-1.9a9.5 9.5 0 0 1 7.3-3.4h.7c5.3 0 9.6 4.3 9.6 9.6v26.7h2.1V84.1c0-6.5-5.2-11.8-11.7-11.8h-.7c-2.8 0-5.4 1-7.5 2.8-1.5-4.8-6-8.3-11.2-8.3H84c-2.8 0-5.5 1-7.6 2.9a13 13 0 0 0-12.3-9.2 13 13 0 0 0-9 3.8V10.8C55 4.8 50.2 0 44.3 0h-2.5C35.8 0 31 4.8 31 10.8v82C29 90.2 14 73 6.8 76.5l-1.8 1a10 10 0 0 0-3.7 13.7l31.4 54.6A29 29 0 0 0 60 165h27a29 29 0 0 0 29-29v-14.2h-2.2z" fill="#232045" mask="url(#e)"/>
+      </g>
+    </g>
+  </g>
+</svg>

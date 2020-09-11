@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Challenges</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation/Child/Account" transform="translate(-186.000000, -24.000000)" stroke="#232045">
+            <g id="Navigation">
+                <g id="Challenges" transform="translate(179.000000, 19.000000)">
+                    <circle id="Oval-12" cx="25.5" cy="23.5" r="17.5"></circle>
+                    <polygon id="Star" points="26 30.5 18.3587917 34.5172209 19.8181326 26.0086105 13.6362653 19.9827791 22.1793959 18.7413895 26 11 29.8206041 18.7413895 38.3637347 19.9827791 32.1818674 26.0086105 33.6412083 34.5172209"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

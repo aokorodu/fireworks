@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+    <defs>
+        <circle id="a" cx="45" cy="45" r="45"/>
+        <filter id="c" width="126.7%" height="135.6%" x="-12.7%" y="-17.8%" filterUnits="objectBoundingBox">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <path id="d" d="M31.579 32.484c-3.335-.054-6.462.849-9.38 2.71-4.378 2.79-9.656 11.757-18.28 9.422-8.624-2.334-1.279-35.38 5.407-41.39 6.685-6.011 11.186-2.086 14.778-.44C26.5 3.883 28.991 4.387 31.58 4.3c2.588.087 5.08-.417 7.474-1.514 3.593-1.646 8.094-5.571 14.78.44 6.685 6.01 14.03 39.056 5.406 41.39-8.625 2.335-13.903-6.633-18.28-9.423-2.918-1.86-6.045-2.763-9.38-2.71z"/>
+        <filter id="e" width="104.7%" height="106.7%" x="-2.4%" y="-3.3%" filterUnits="objectBoundingBox">
+            <feOffset dx="-3" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#FAF700" fill-rule="nonzero" xlink:href="#a"/>
+            <path fill="#DC9C44" fill-rule="nonzero" d="M67.426 26.312l35.6 35.662-45.394 46.184-41.843-41.842" mask="url(#b)" opacity=".393"/>
+        </g>
+        <g fill-rule="nonzero" filter="url(#c)" transform="translate(13.421 22.895)">
+            <use fill="#363233" xlink:href="#d"/>
+            <use fill="#000" filter="url(#e)" xlink:href="#d"/>
+            <path fill="#A7A8AA" d="M27.632 24.474h7.895v2.368h-7.895z" opacity=".537"/>
+            <circle cx="46.579" cy="9.474" r="3.158" fill="#3AB449"/>
+            <circle cx="52.895" cy="15" r="3.158" fill="#FAF700"/>
+            <circle cx="46.579" cy="20.526" r="3.158" fill="#009EFF"/>
+            <circle cx="40.263" cy="15" r="3.158" fill="#E83155"/>
+            <path fill="#000" d="M46.579 12.632a3.158 3.158 0 1 0 0-6.316M52.895 18.158a3.158 3.158 0 1 0 0-6.316M46.579 23.684a3.158 3.158 0 1 0 0-6.316M40.263 18.158a3.158 3.158 0 1 0 0-6.316" opacity=".249"/>
+            <path fill="#D3D3D3" d="M14.211 7.895h4.737v12.632h-4.737z"/>
+            <path fill="#1A1819" d="M16.579 7.895h2.368v12.632h-2.368z" opacity=".275"/>
+            <path fill="#D3D3D3" d="M10.263 11.842h12.632v4.737H10.263z"/>
+            <path fill="#1A1819" d="M16.579 11.842h6.316v4.737h-6.316z" opacity=".275"/>
+            <path fill="#363233" d="M16.579 8.684l1.579 1.58H15zM16.579 19.737l1.579-1.58H15zM11.053 14.21l1.579 1.58v-3.158zM22.105 14.21l-1.579 1.58v-3.158z"/>
+        </g>
+    </g>
+</svg>

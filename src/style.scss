@@ -1,0 +1,74 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cousine:wght@400;700&display=swap");
+
+$body-font: 'Rubik', sans-serif;  
+$number-font: 'Cousine', monospace;
+
+body{
+  background-color: #cccbcb;
+}
+  .congratulations-background {
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    background-image: linear-gradient(0deg, #51b9f5 0%, #0764ce 100%);
+    text-align: center;
+    color: #acaaaa;
+    overflow-y: auto;
+  }
+
+  .bubbles {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+  }
+
+  .trophy-holder {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  #content-holder {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 600px;
+    transform: translate(-50%, -50%);
+    border-radius: 5%;
+    border: 3px solid #eaeaea;
+    overflow: hidden;
+  }
+
+  #fireworks-svg {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+
+  #firework-canvas {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+  }
+
+  @media screen and (max-height: 568px) {
+    .trophy-row {
+      padding-top: 0em;
+    }
+  }

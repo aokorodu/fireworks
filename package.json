@@ -1,0 +1,26 @@
+{
+  "name": "fireworkswebpack",
+  "version": "1.0.0",
+  "description": "fireworks - repurposed from Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "start:dev": "webpack-dev-server"
+  },
+  "author": "Abraham Okorodudu",
+  "license": "ISC",
+  "dependencies": {
+    "createjs": "^1.0.1",
+    "gsap": "^3.5.1",
+    "sass": "^1.26.10",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "sass-loader": "^10.0.2",
+    "style-loader": "^1.2.1"
+  }
+}
