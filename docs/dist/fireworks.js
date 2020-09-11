@@ -9418,17 +9418,17 @@ class App {
 
   initSounds() {
     this.launchSound = new howler__WEBPACK_IMPORTED_MODULE_3__["Howl"]({
-      src: ['../assets/sounds/firework_launch_start.mp3'],
+      src: ['./assets/sounds/firework_launch_start.mp3'],
       volume: 0.15,
     });
 
     this.popSound = new howler__WEBPACK_IMPORTED_MODULE_3__["Howl"]({
-      src: ['../assets/sounds/firework_pop.mp3'],
+      src: ['./assets/sounds/firework_pop.mp3'],
       volume: 0.3,
     });
 
     this.wizzSound = new howler__WEBPACK_IMPORTED_MODULE_3__["Howl"]({
-      src: ['../assets/sounds/firework_pop_wizz.mp3'],
+      src: ['./assets/sounds/firework_pop_wizz.mp3'],
       volume: 0.3,
     });
   }
