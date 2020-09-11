@@ -11,7 +11,7 @@ export class App {
     this.maxSparksInExplosion = 33;
     this.wizzSoundFrequency = 0.33;
     this.fireworks = [];
-    this.totalFireworks = 10;
+    this.totalFireworks = 5;
     this.fwOriginY
     this.active = true;
     this.stage = null;
