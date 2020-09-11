@@ -3,6 +3,7 @@ import { Spark } from './Spark';
 import { Firework } from './Firework';
 //import * as createjs from 'createjs';
 //const createjs = require('../node_modules/createjs/builds/createjs-2015.11.26.combined');
+import { Howl, Howler } from 'howler';
 
 export class App {
   constructor() {
@@ -17,10 +18,32 @@ export class App {
     this.stage = null;
     this.svgWidth = 600;
     this.svgHeight = 600;
+    // sounds
+    this.launchSound;
+    this.popSound;
+    this.wizzSound;
   }
 
-  init(){
-    console.log('init App')
+  initSounds() {
+    this.launchSound = new Howl({
+      src: ['../assets/sounds/firework_launch_start.mp3'],
+      volume: 0.15,
+    });
+
+    this.popSound = new Howl({
+      src: ['../assets/sounds/firework_pop.mp3'],
+      volume: 0.3,
+    });
+
+    this.wizzSound = new Howl({
+      src: ['../assets/sounds/firework_pop_wizz.mp3'],
+      volume: 0.3,
+    });
+  }
+
+  init() {
+    console.log('init App');
+    this.initSounds();
     this.initCreateJS();
     this.initStage();
     this.buildSparks();
@@ -66,12 +89,13 @@ export class App {
     if (!this.active) return;
 
     for (const spark of this.sparks) {
-        spark.update();
+      spark.update();
     }
 
     for (const fw of this.fireworks) {
       if (fw.isNew()) {
         //this.soundEffects.playSound('firework_launch_start', 0.05);
+        this.launchSound.play();
       }
       fw.update();
       if (fw.done) {
@@ -90,9 +114,9 @@ export class App {
   }
 
   triggerFireworks(xPos, yPos) {
-        //this.soundEffects.playSound('firework_pop', 0.1);
+    this.popSound.play();
     if (Math.random() < this.wizzSoundFrequency) {
-        //this.soundEffects.playSound('wizz', 0.1);
+      this.wizzSound.play();
     }
     const availableSparks = this.sparks.filter(spark => {
       return spark.isDone();
@@ -101,25 +125,25 @@ export class App {
       availableSparks.length < this.maxSparksInExplosion
         ? availableSparks.length
         : this.maxSparksInExplosion;
-    for (let i = 0; i < num;  i++){
+    for (let i = 0; i < num; i++) {
       const spark = availableSparks[i];
       spark.initialize(xPos, yPos, this.svgWidth, this.svgHeight, this.stage);
     }
   }
 
   next() {
-        this.challengesNavService.childChallenges();
+    this.challengesNavService.childChallenges();
   }
 
   ngOnDestroy() {
-        this.destroy();
+    this.destroy();
   }
 
   destroy() {
-        this.active = false;
+    this.active = false;
     createjs.Ticker.reset();
     if (this.stage) {
-        this.stage.removeAllChildren();
+      this.stage.removeAllChildren();
     }
   }
 }

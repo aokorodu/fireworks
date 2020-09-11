@@ -13,6 +13,7 @@
   "dependencies": {
     "createjs": "^1.0.1",
     "gsap": "^3.5.1",
+    "howler": "^2.2.0",
     "sass": "^1.26.10",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
